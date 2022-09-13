@@ -6,7 +6,7 @@
 
 We developed a mentor matching software targeted towards online students (mentors and mentees) as well as mentor program administrators. Penn-Pal provides an intuitive and simple portal for mentors and mentees from different locations, time zones, backgrounds, and experiences to sign-up and connect with each other. Mentor program administrators can use the application on a desktop or mobile device to create a new mentoring event, and customize mentor-mentee matches.
 
-Include the link to your Devpost project page here: [Devpost](https://...)
+Include the link to your Devpost project page here: [Devpost](https://devpost.com/software/penn-pal)
 
 ### Authors
 
