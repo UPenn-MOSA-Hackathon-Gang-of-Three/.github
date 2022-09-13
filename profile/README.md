@@ -131,7 +131,7 @@ Front-end:
 * [Material UI](https://mui.com/) - User Interface Component Library
 * [LottieFiles](https://lottiefiles.com/) - Animations
 * [Vercel](https://vercel.com/) - Hosting Platform
-* [WebStorm] (https://www.jetbrains.com/webstorm/) - JavaScript IDE
+* [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
 
 Back-end:
 
