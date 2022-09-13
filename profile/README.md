@@ -100,7 +100,7 @@ Click on Mentee Icon to get to Mentee Sign-up form (questions customized for men
 
 ![Screen Shot 2022-09-12 at 4 34 19 PM](https://user-images.githubusercontent.com/70975465/189776070-fc345b81-d534-4dae-81ef-5d14f315680a.png)
 
-Fill out the application and then click on "Submit application" button on the bottom of the page. - http://localhost:3000/event/success?participantName=Ben&uniqueId=12345
+Fill out the application and then click on "Submit application" button on the bottom of the page. - http://localhost:3000/event/success?participantName=Ben&id=2&uniqueID=12345
 
 ![Screen Shot 2022-09-12 at 4 35 45 PM](https://user-images.githubusercontent.com/70975465/189776199-b2d6d6e2-af72-4d0f-b197-fb33ddf2bd93.png)
 
@@ -112,7 +112,7 @@ Click on Mentor Icon to get to Mentor Sign-up form (questions customized for men
 
 ![Screen Shot 2022-09-12 at 4 36 38 PM](https://user-images.githubusercontent.com/70975465/189776281-0febb0c6-86a0-4659-b5e3-ea5f1968d124.png)
 
-Fill out the application and then click on "Submit application" button on the bottom of the page. - http://localhost:3000/event/success?participantName=Ben&uniqueId=12345
+Fill out the application and then click on "Submit application" button on the bottom of the page. - http://localhost:3000/event/success?participantName=Ben&id=2&uniqueID=12345
 
 ![Screen Shot 2022-09-12 at 4 35 45 PM](https://user-images.githubusercontent.com/70975465/189776199-b2d6d6e2-af72-4d0f-b197-fb33ddf2bd93.png)
 
@@ -141,10 +141,10 @@ To develop Penn-Pal, we used a host of technologies and tools to enable a featur
 
 Front-end: 
 
-* [Next.js](https://nextjs.org/) - Web Development Framework
-* [React.js](https://reactjs.org/) - JavaScript Library
+* [Next.js](https://nextjs.org/) - Web Development Framework w/ Server-side Rendering
+* [React.js](https://reactjs.org/) - Web Development Library
 * [Chakra UI](https://chakra-ui.com/) - User Interface Component Library
-* [Material UI](https://mui.com/) - User Interface Component Library
+* [Axios](https://axios-http.com/) - HTTP Request Utility
 * [LottieFiles](https://lottiefiles.com/) - Animations
 * [Vercel](https://vercel.com/) - Hosting Platform
 * [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
