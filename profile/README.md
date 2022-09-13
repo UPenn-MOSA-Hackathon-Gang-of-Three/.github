@@ -20,6 +20,20 @@ We are a group of three UPenn MCIT Online students who are participating in the 
 
 ## Usage
 
+### Online live version (No installation required - Open in your web brower): 
+
+Home Page: https://penn-pal.vercel.app/
+
+Create Mentor Event: https://penn-pal.vercel.app/event/new
+
+Event Created Successfully: https://penn-pal.vercel.app/event/success?eventName=Test+event&id=12&uniqueID=GxoXxTB0exc6kHR4WaQwy
+
+Mentor/Mentee Application: https://penn-pal.vercel.app/event/register
+
+Meet your new mentor: https://penn-pal.vercel.app/event/status/24/tp5dQyDf8S6FIjuVMGE23
+
+Coming Soon: https://penn-pal.vercel.app/coming-soon
+
 ### Prerequisites
 
 * [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
