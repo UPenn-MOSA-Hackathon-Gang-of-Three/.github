@@ -122,7 +122,7 @@ Step 8: Found a Match page: Go to http://localhost:3000/event/status/1/yP3tp-C7v
 
 ![Screen Shot 2022-09-12 at 6 35 23 PM](https://user-images.githubusercontent.com/70975465/189788368-1fb0bf97-95d2-4da3-84e9-cc5b1551b781.png)
 
-Step 9: To terminate Penn-Pal, in the Webstorm Terminal type "Command + C"
+Step 9: To terminate Penn-Pal, in the Webstorm Terminal type "Control + C"
 
 ```
 ^C
