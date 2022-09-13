@@ -133,7 +133,7 @@ Optional:
 
 To install the backend, please refer to the ReadMe in them [penn-pal-testdatagenerator repository](https://github.com/UPenn-MOSA-Hackathon-Gang-of-Three/penn-pal-backend)
 
-To install the test data generator, please refer to the ReadMe in them [penn-pal-testdatagenerator repository] (https://github.com/UPenn-MOSA-Hackathon-Gang-of-Three/penn-pal-testdatagenerator)
+To install the test data generator, please refer to the ReadMe in them [penn-pal-testdatagenerator repository](https://github.com/UPenn-MOSA-Hackathon-Gang-of-Three/penn-pal-testdatagenerator)
 
 ## Additional information
 
