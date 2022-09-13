@@ -8,6 +8,8 @@ We developed a mentor matching software targeted towards online students (mentor
 
 Include the link to your Devpost project page here: [Devpost](https://devpost.com/software/penn-pal)
 
+Check-out the online version here: https://penn-pal.vercel.app/
+
 ### Authors
 
 We are a group of three UPenn MCIT Online students who are participating in the [MOSA Fall 2022 Hackathon](https://mosa-fall-2022-hackathon.devpost.com/). 
