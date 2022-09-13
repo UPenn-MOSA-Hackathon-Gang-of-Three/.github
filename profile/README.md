@@ -34,6 +34,8 @@ Meet your new mentor: https://penn-pal.vercel.app/event/status/24/tp5dQyDf8S6FIj
 
 Coming Soon: https://penn-pal.vercel.app/coming-soon
 
+Oops: https://penn-pal.vercel.app/oops
+
 ### Prerequisites
 
 * [WebStorm](https://www.jetbrains.com/webstorm/) - JavaScript IDE
