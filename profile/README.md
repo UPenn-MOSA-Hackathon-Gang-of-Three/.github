@@ -26,8 +26,6 @@ We are a group of three UPenn MCIT Online students who are participating in the 
 
 ### Installation for Front-end 
 
-Give a step-by-step rundown of how to **install** your project.
-
 Step 1: Download WebStorm IDE
 
 https://www.jetbrains.com/webstorm/download/#section=mac
@@ -48,8 +46,6 @@ yarn --version
 ```
 
 ### Deployment
-
-Give a step-by-step rundown of how to **use** your project. Including screenshots in this section can be highly effective for highlighting specific features of your project.
 
 Step 1: Download the front-end code from [penn-pal-frontend](https://github.com/UPenn-MOSA-Hackathon-Gang-of-Three/penn-pal-frontend)
 
@@ -146,7 +142,7 @@ Back-end:
 * [Heroku](https://www.heroku.com/) - Hosting Platform
 * [Postman](https://www.postman.com/) - API Testing
 
-Test Dataset Generation: 
+Test Dataset Generator: 
 
 * [Python Faker](https://faker.readthedocs.io/en/master/) - Python Package to generate fake data
 * [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE
@@ -177,10 +173,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
 
