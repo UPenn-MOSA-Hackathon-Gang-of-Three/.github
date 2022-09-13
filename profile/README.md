@@ -14,9 +14,9 @@ Check-out the online version here: https://penn-pal.vercel.app/
 
 We are a group of three UPenn MCIT Online students who are participating in the [MOSA Fall 2022 Hackathon](https://mosa-fall-2022-hackathon.devpost.com/). 
 
-* Kris Stern - Devpost ID: krisstern – Penn email: kastern@seas.upenn.edu – [GitHub](https://github.com/krisstern)
+* Kris Stern - Devpost ID: kastern – Penn email: kastern@seas.upenn.edu – [GitHub](https://github.com/krisstern)
 * Dan Fitz - Devpost ID: danfitz – Penn email: danfitz@seas.upenn.edu – [GitHub](https://github.com/danfitz)
-* Bonnie Tse - Devpost ID: bonniewt – Penn email: bonniet@seas.upenn.edu – [GitHub](https://github.com/bonniewt)
+* Bonnie Tse - Devpost ID: bonniet – Penn email: bonniet@seas.upenn.edu – [GitHub](https://github.com/bonniewt)
 
 ## Usage
 
